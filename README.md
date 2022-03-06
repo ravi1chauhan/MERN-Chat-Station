@@ -2,7 +2,7 @@
 Chat-Station is a Full Stack Chatting App. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Technologies used
 
-**Frontend:** ```React JS``` and ```Material-UI```
+**Frontend:** ```React JS``` and ```Chakra UI```
 
 **Backend:** ```Node JS``` and ```Express JS```
 
